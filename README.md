@@ -1,6 +1,3 @@
-Here’s a **README** you can add for your chatbot project:
-
----
 
 # Rule-Based Chatbot 🤖
 
